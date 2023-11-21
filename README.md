@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Lucas Bighi
+- 🌱 I’m currently working with Apple technologies (iOS, Swift, SwiftUI, UIKit)
+- 💞️ I’m looking to collaborate on Open Source Projects
+- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/lucasbighi/)
